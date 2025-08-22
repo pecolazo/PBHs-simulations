@@ -1,5 +1,5 @@
 // sw.js — scope relativo a /docs (GitHub Pages: Folder /docs)
-const CACHE_NAME = "pbh-cache-v1";
+const CACHE_NAME = "pbh-cache-v2";
 
 // Si más tarde agregás recursos extra (CSS/otras páginas), sumalos acá.
 // IMPORTANTE: solo listar archivos que EXISTEN en docs/ para evitar fallos de instalación.
